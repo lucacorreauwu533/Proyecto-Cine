@@ -1,6 +1,6 @@
 -- BASE DE DATOS - PROYECTO CINE :D
 
--- CREACIÓN DDL :3
+-- CREACIÓN DDL
 
 DROP DATABASE IF EXISTS ProyectoCine;
 CREATE DATABASE IF NOT EXISTS ProyectoCine;
@@ -97,7 +97,7 @@ CREATE TABLE Precio ( -- Creación de la tabla PRECIO
 
 -------------------------------------------------------------------------------------------------------
 
--- CREACIÓN DML :3
+-- CREACIÓN DML
 
 -- Insertar valores a las tablas creadas
 
